@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/cwDrc3z/github-header-image.png" alt="Banner">
 </div>
 
-<h1 align="center">Hi 👋, I'm Lex</h1>
+<h1 align="center">Hi 👋, I'm Théo</h1>
 <h3 align="center">Hi, I'm a 17 year old occasional developer who likes to do a few things to help out on a daily basis.</h3>
 
 <p align="left">
